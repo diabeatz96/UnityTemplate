@@ -12,7 +12,7 @@ GitHub Copilot: Sure, here are the steps to download Git LFS and use an existing
 **Using an existing GitHub repository with Unity:**
 
 1. Open Unity and create a new project.
-2. Go to the project folder, and open the files in your native system folder.
+2. Go to the project folder, and open the folder in your native system and open a command prompt (Git Bash, terminal, etc)
 3. Download a zip of this template Extract, and copy it into your existing project. 
 4. We are going to create and clone the repository using the following command:
 
