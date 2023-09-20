@@ -24,5 +24,3 @@ GitHub Copilot: Sure, here are the steps to download Git LFS and use an existing
     git remote add origin <repo url>
     git push -f origin main
   ```
-
-Your repository will now be online.
