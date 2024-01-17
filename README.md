@@ -1,8 +1,6 @@
 # UnityTemplate
 A Test Template for Unity when using 
 
-GitHub Copilot: Sure, here are the steps to download Git LFS and use an existing GitHub repository with Unity:
-
 **Downloading Git LFS:**
 
 1. Go to the Git LFS website: https://git-lfs.github.com/
